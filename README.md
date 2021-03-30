@@ -11,7 +11,7 @@
   💬 Ask me about <b>python, php, ...</b>
 </p>
 <p align="center">
-  📫 How to reach me <a href="mailto:tanjina.3ni@gmail.com" target=_blanck><b>tanjina.3ni@gmail.com</b></a>
+  📫 Reach me at <a href="mailto:tanjina.3ni@gmail.com" target=_blanck><b>tanjina.3ni@gmail.com</b></a>
 </p>
 <p align="center">
 📄 Know about my experiences <a href="https://drive.google.com/file/d/1sDPKjImbTvJOPZJHfu_bvi7e9vuie6lu/view" target=_blank>here</a>.

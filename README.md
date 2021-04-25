@@ -14,7 +14,7 @@
   📫 Reach me at <a href="mailto:tanjina.3ni@gmail.com" target=_blanck><b>tanjina.3ni@gmail.com</b></a>
 </p>
 <p align="center">
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1sDPKjImbTvJOPZJHfu_bvi7e9vuie6lu/view" target=_blank>here</a>.
+📄 Know about my experiences <a href="https://tanjina-3ni.github.io/resume/tanjina-rahman.pdf" target=_blank>here</a>.
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -31,7 +31,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjina-3ni&show_icons=true&locale=en&layout=compact" alt="tanjina-3ni" /></p>
 <p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=tanjina-3ni&show_icons=true&locale=en" alt="tanjina-3ni" />&nbsp;<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjina-3ni&" alt="tanjina-3ni" /></p>
 
-<p align="center">▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</p>
+
 
 
 <!--
